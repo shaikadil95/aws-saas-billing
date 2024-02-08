@@ -1,0 +1,8 @@
+[
+    {
+      "Detail": "{ \"TenantID\": \"Singtel\", \"Quantity\": 10 }",
+      "DetailType": "BILLING",
+      "EventBusName": "BillingEventBridge",
+      "Source": "command-line-test"
+    }
+]

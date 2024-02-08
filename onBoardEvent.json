@@ -1,0 +1,8 @@
+[
+    {
+      "Detail": "{ \"TenantID\": \"Singtel\", \"ExternalSubscriptionIdentifier\": \"si_PWBiCrWdy5rKLh\" }",
+      "DetailType": "ONBOARD",
+      "EventBusName": "BillingEventBridge",
+      "Source": "command-line-test"
+    }
+] 
